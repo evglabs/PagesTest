@@ -1,7 +1,7 @@
 ## Welcome to GitHub Pages
 
 
-# [CLICK HERE TO BLOW YOUR MIND!](HeadSlposion.md)
+# [CLICK HERE TO BLOW YOUR MIND!](HeadSplosion.md)
 
 You can use the [editor on GitHub](https://github.com/evglabs/PagesTest/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
