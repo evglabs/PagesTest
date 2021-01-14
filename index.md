@@ -3,7 +3,7 @@
 
 # [CLICK HERE TO BLOW YOUR MIND!](HeadSplosion.md)
 
-![DOG!](2021-01-14 08.37.44.jpg)
+![DOG!](/2021-01-14 08.37.44.jpg)
 
 You can use the [editor on GitHub](https://github.com/evglabs/PagesTest/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
