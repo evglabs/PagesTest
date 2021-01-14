@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## This is a test of GitHub Pages
 
 
 # [CLICK HERE TO BLOW YOUR MIND!](HeadSplosion.md)
